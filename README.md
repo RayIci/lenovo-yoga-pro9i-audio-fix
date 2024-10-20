@@ -6,7 +6,7 @@ This script temporaneally fix bassless audio issue on lenovo yoga laptops.
 
 To fix basseless audio problem in lenovo yoga you have to run the script `2pa-byps.sh`.
 
-First of all you have to install `i2cset` in your system using your packet manager
+First of all you have to install `i2cset` in your system using your package manager 
 
 Ubuntu:
 
@@ -36,4 +36,4 @@ If the script print a failed write change the channel. The script is run succesf
 
 ## References
 
-This script has been found in the [following post](https://github.com/karypid/YogaPro-16IMH9/issues/2) read the post to better details.
+This script has been found in the [following github issue](https://github.com/karypid/YogaPro-16IMH9/issues/2), read the issue to better details.
