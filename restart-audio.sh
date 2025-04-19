@@ -1,1 +1,1 @@
-sudo alsa force-reload
+alsa force-reload
